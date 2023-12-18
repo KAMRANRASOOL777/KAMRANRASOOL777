@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Time, Tide and Technology waits for none
+
 <!--
 **KAMRANRASOOL777/KAMRANRASOOL777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
